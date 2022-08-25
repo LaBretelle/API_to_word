@@ -1,0 +1,1 @@
+This repos allows us to download works from the PuppetPlays API (api.puppetplays.eu) and create a word file out for each works. 1 word file per work. This script is dedicated to people that need a word file to work.
